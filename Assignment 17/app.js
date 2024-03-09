@@ -416,7 +416,7 @@
 // alert(userResponse);
 
 // QUESTION 05
-var firstName = prompt("Enter your First Name", "Muhammad"),
-    secondName = prompt("Enter you Second Name", "Hanif");
-alert(firstName);
-alert(secondName);
+// var firstName = prompt("Enter your First Name", "Muhammad"),
+//     secondName = prompt("Enter you Second Name", "Hanif");
+// alert(firstName);
+// alert(secondName);
